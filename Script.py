@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>😀 HELO {}</b>
 
-</b>SWEETIE MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE YOU SERIES, JUST SEND ME ONLY THE NAME OF THE SERIES AND ALLOW ME DO MY MAGIC!!!</b> 
+<b>SWEETIE MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE YOU SERIES, JUST SEND ME ONLY THE NAME OF THE SERIES AND ALLOW ME DO MY MAGIC!!!</b> 
 
 <b>✯ FOR MORE HELP ON HOW TO USE ME - https://t.me/Lordship_series/2854 😍</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
